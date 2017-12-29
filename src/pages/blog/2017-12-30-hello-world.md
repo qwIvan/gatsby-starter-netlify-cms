@@ -7,4 +7,6 @@ description: 向世界问好
 ---
 你好，世界！
 
+![GDG](/img/photo.jpg)
+
 update testing
